@@ -5,7 +5,7 @@
 <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
 <br>
-<font color="pink"> :fire: My developer career started in 2021, and it goes on...</font>
+<font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
 </br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
