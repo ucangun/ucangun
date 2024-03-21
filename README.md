@@ -1,10 +1,10 @@
-## Hi there, I am Umut
+## Hi there, I am Umut 
 
 <br>
 <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
 <br>
-<font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
+<font color="pink"> :fire: My developer career started in 2022, and it goes on...</font>
 </br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
@@ -12,7 +12,8 @@
 
 #### Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ucangun/])
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([
+https://www.linkedin.com/in/ucangun/])
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ucangun76@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=ucangun&style=flat-square)
