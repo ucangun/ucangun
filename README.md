@@ -1,6 +1,5 @@
 ## Hi there, I am Umut
 
-<img src="https://github-readme-stats.vercel.app/api?username=ucangun&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <br>
 <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
