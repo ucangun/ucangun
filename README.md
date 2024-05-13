@@ -1,4 +1,5 @@
-## <div align=center>
+## 
+<div align=center>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Umut;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
 
