@@ -1,4 +1,6 @@
-## Hi there, I am Umut 
+## <div align=center>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Umut;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+</div>
 
 <br>
 <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
@@ -18,7 +20,6 @@
 ![](https://komarev.com/ghpvc/?username=ucangun&style=flat-square)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ucangun&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucangun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ucangun&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
