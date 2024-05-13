@@ -61,14 +61,9 @@
 
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look
-:-------------------------|-------------------------|-------------------------
-[SASS Portfolio Page](https://ucangunalex.netlify.app/)| HTML5, CSS3, SASS, Responsive |
-
-https://github.com/ucangun/ucangun/assets/149247682/77c0c929-8c00-429f-89c2-685299cb9f0d
-
-|[Source Code](https://github.com/ucangun/Alex_Sass_Project)
-
+  Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
+:-------------------------|-------------------------|-------------------------|-------------------------
+[SASS Portfolio Page](https://ucangunalex.netlify.app/)| HTML5, CSS3, SASS, Responsive |![sass-portfolio-page](Bildschirmaufnahme2024-05-14um00.20.00-ezgif.com-video-to-gif-converter.gif         )|[Source Code](https://github.com/ucangun/Alex_Sass_Project)
 
 
 </div>
