@@ -66,18 +66,12 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-[Street Wear E-Commerce](https://streetwearapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![E-Commerce](https://github.com/ucangun/ucangun/assets/149247682/6ac3f8f6-2e1c-4e96-8525-311b17090661)
-|[Source Code](https://github.com/ucangun/E_Commerce_Project)
-[IOS Calculator](https://umutioscalculator.netlify.app/)| HTML5, CSS3, JavaScript, Responsive |![IOS Calculator](https://github.com/ucangun/ucangun/assets/149247682/8af9b78e-69dd-4684-b9d8-3aa684ac53c3)
-|[Source Code](https://github.com/ucangun/IOS_Calculator)
-[Memory Game](https://umutsmemorygame.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![Memory Game](https://github.com/ucangun/ucangun/assets/149247682/abb27d28-8c56-43f0-8850-497a1fd00641)
-|[Source Code](https://github.com/ucangun/Memory_Game_With_Js)
-[Alex de Souza Portfolio Page](https://ucangunalex.netlify.app/)| HTML5, CSS3, SASS, Responsive |![Alex de Souza](https://github.com/ucangun/ucangun/assets/149247682/5b466509-d9ff-4dff-bdb9-a173aefc66eb)
-|[Source Code](https://github.com/ucangun/Alex_Sass_Project)
-[Umut-s_Restaurant](https://umutsveganestaurant.netlify.app)| HTML5, CSS3, Bootstrap, Responsive |![Umut-s Restaurant](https://github.com/ucangun/ucangun/assets/149247682/9d7ce1d5-99ba-4503-981a-19aac1718d68)
-|[Source Code](  https://github.com/ucangun/Umut-s_Restaurant)
-[Cafe-Developer](https://cafedeveloper.netlify.app)| HTML5, CSS3 |![Uploading Cafe Developer.gif…]()
-|[Source Code]( https://github.com/ucangun/Cafe-Developer)
+[Street Wear E-Commerce](https://streetwearapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![E-Commerce](https://github.com/ucangun/ucangun/assets/149247682/6ac3f8f6-2e1c-4e96-8525-311b17090661)|[Source Code](https://github.com/ucangun/E_Commerce_Project)
+[IOS Calculator](https://umutioscalculator.netlify.app/)| HTML5, CSS3, JavaScript, Responsive |![IOS Calculator](https://github.com/ucangun/ucangun/assets/149247682/8af9b78e-69dd-4684-b9d8-3aa684ac53c3)|[Source Code](https://github.com/ucangun/IOS_Calculator)
+[Memory Game](https://umutsmemorygame.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![Memory Game](https://github.com/ucangun/ucangun/assets/149247682/abb27d28-8c56-43f0-8850-497a1fd00641)|[Source Code](https://github.com/ucangun/Memory_Game_With_Js)
+[Alex de Souza Portfolio Page](https://ucangunalex.netlify.app/)| HTML5, CSS3, SASS, Responsive |![Alex de Souza](https://github.com/ucangun/ucangun/assets/149247682/5b466509-d9ff-4dff-bdb9-a173aefc66eb)|[Source Code](https://github.com/ucangun/Alex_Sass_Project)
+[Umut-s_Restaurant](https://umutsveganestaurant.netlify.app)| HTML5, CSS3, Bootstrap, Responsive |![Umut-s Restaurant](https://github.com/ucangun/ucangun/assets/149247682/9d7ce1d5-99ba-4503-981a-19aac1718d68)|[Source Code](  https://github.com/ucangun/Umut-s_Restaurant)
+[Cafe-Developer](https://cafedeveloper.netlify.app)| HTML5, CSS3 |![Cafe Developer](https://github.com/ucangun/ucangun/assets/149247682/38a9f41e-cedb-4481-8850-7f4f97c0c151)|[Source Code]( https://github.com/ucangun/Cafe-Developer)
 
 
 </div>
