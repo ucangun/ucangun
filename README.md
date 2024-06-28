@@ -66,7 +66,7 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-[CountryNavigator_App](https://umutlocationapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive , API ||[Source Code](https://github.com/ucangun/CountryNavigator_App/tree/main)
+[CountryNavigator_App](https://umutlocationapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive , API |![CountryNavigator](https://github.com/ucangun/ucangun/assets/149247682/ef185f74-4e46-47e1-b530-8246e76ebebb)|[Source Code](https://github.com/ucangun/CountryNavigator_App/tree/main)
 [My Wallet App](https://umutwalletapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![My Wallet App](https://github.com/ucangun/ucangun/assets/149247682/9b8c6048-f060-4dbe-9d02-e9615b4bc1f1)|[Source Code](https://github.com/ucangun/My_Wallet_App)
 [Street Wear E-Commerce](https://streetwearapp.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![E-Commerce](https://github.com/ucangun/ucangun/assets/149247682/62769a8c-3449-495a-941f-108ba33f0c5a)|[Source Code](https://github.com/ucangun/E_Commerce_Project)
 [IOS Calculator](https://umutioscalculator.netlify.app/)| HTML5, CSS3, JavaScript, Responsive |![IOS Calculator](https://github.com/ucangun/ucangun/assets/149247682/8af9b78e-69dd-4684-b9d8-3aa684ac53c3)|[Source Code](https://github.com/ucangun/IOS_Calculator)
