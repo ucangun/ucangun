@@ -37,13 +37,11 @@
 
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
-<img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
 <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
 <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
 <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
 <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
-<img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
 <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
