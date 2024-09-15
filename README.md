@@ -64,6 +64,7 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[QuickStock_App](https://quickstock.vercel.app/)| React, i18n, Material UI, TailwindCSS, Redux, Redux Toolkit, Toastify, React-Router, CRUD, Axios (Instance), Formik & Yup, Redux Persist |![QuickStock](https://github.com/user-attachments/assets/e70e6bc0-012a-4f76-aa50-5a992b9de831)|[Source Code](https://github.com/ucangun/Stock_App)
 [CineWave_Movie_App](https://cine-wave-movie-app.vercel.app/)| Firebase Auth ,Tailwind CSS, Toastify, Context API, JavaScript, ReactJS, Router , Axios , Responsive |![CineWave Movie App](https://github.com/user-attachments/assets/02364e9c-fe1e-4246-a727-24fcb66642b5)|[Source Code](https://github.com/ucangun/CineWave_Movie_App)
 [CookBox_App](https://cookboxapp.netlify.app/)| Styled Components, API, Context API, JavaScript, ReactJS, Responsive |![CookBox App](https://github.com/user-attachments/assets/26e2b5c4-9b6c-48cc-89dd-a6b9b619aadc)|[Source Code](https://github.com/ucangun/CookBox_App)
 [Quiz_App](https://itmasterquizapp.netlify.app/)| CSS3, Bootstrap, JavaScript, ReactJS, Responsive |![Quiz App](https://github.com/user-attachments/assets/f9fd7044-6edf-45bb-9e89-8a222eade1b7)|[Source Code](https://github.com/ucangun/Quiz_App)
