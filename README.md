@@ -10,8 +10,16 @@
 <font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
 </br>
 <br>
-<font color="pink"> :rocket: Currently, I am focusing on  React and Typescript ...</font>
+<font color="pink"> :rocket: Currently, I am focusing on React , TypeScript and Express.js ...</font>
 </br>
+<br>
+<font color="pink"> :hammer_and_wrench: **Current Project**: Building an advanced blog application called "Blog Motion" using React and Typescript.</font>
+</br>
+<br>
+<font color="pink"> :bulb: This project aims to create a modern and user-friendly blog application where users can easily read, write, and share posts on various topics.</font>
+</br>
+
+
 
 
 <div align=center>
