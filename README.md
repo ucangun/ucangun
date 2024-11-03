@@ -3,23 +3,13 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Umut;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
 
-<br>
-<font color="pink"> :snowboarder: I'm Full Stack Developer</font>
-</br>
-<br>
-<font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
-</br>
-<br>
-<font color="pink"> :rocket: Currently, I am focusing on React , TypeScript and Express.js ...</font>
-</br>
-<br>
-<font color="pink"> :hammer_and_wrench: Current Project: Building an advanced blog application called "Blog Motion" using React and Typescript.</font>
-</br>
-<br>
-<font color="pink"> :bulb: This project aims to create a modern and user-friendly blog application where users can easily read, write, and share posts on various topics.</font>
-</br>
-
-
+<div align="center">
+  <p style="color: #FF69B4; font-size: 1.2em; font-weight: bold;">:snowboarder: I'm a Full Stack Developer</p>
+  <p style="color: #FFA07A; font-size: 1.2em; font-weight: bold;">:fire: My developer career started in 2023, and it goes on...</p>
+  <p style="color: #7FFFD4; font-size: 1.2em; font-weight: bold;">:rocket: Currently, I am focusing on <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>...</p>
+  <p style="color: #FFD700; font-size: 1.2em; font-weight: bold;">:hammer_and_wrench: Current Project: Building an advanced blog application called <em>"Blog Motion"</em> using React and TypeScript.</p>
+  <p style="color: #ADFF2F; font-size: 1.2em; font-weight: bold;">:bulb: This project aims to create a modern and user-friendly blog application where users can easily read, write, and share posts on various topics.</p>
+</div>
 
 
 <div align=center>
