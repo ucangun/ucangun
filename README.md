@@ -19,7 +19,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucangun/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ucangun76@gmail.com)
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://www.ucangun.com/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.ucangun.com/)
 </br>
 
 ![](https://komarev.com/ghpvc/?username=ucangun&style=flat-square)
