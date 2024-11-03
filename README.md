@@ -3,7 +3,7 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Umut;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<div>
   <p style="color: #FF69B4; font-size: 1.2em; font-weight: bold;">:snowboarder: I'm a Full Stack Developer</p>
   <p style="color: #FFA07A; font-size: 1.2em; font-weight: bold;">:fire: My developer career started in 2023, and it goes on...</p>
   <p style="color: #7FFFD4; font-size: 1.2em; font-weight: bold;">:rocket: Currently, I am focusing on <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>...</p>
