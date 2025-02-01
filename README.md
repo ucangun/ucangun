@@ -4,11 +4,12 @@
 </div>
 
 <div>
-  <p style="color: #FF69B4; font-size: 1.2em; font-weight: bold;">:snowboarder: I'm a Full Stack Developer</p>
-  <p style="color: #7FFFD4; font-size: 1.2em; font-weight: bold;">:rocket: Currently, I am focusing on <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>...</p>
-  <p style="color: #FFD700; font-size: 1.2em; font-weight: bold;">:hammer_and_wrench: Current Project: Building an advanced blog application called <em>"Blog Motion"</em> using React and TypeScript.</p>
-  <p style="color: #ADFF2F; font-size: 1.2em; font-weight: bold;">:bulb: This project aims to create a modern and user-friendly blog application where users can easily read, write, and share posts on various topics.</p>
+  <p style="color: #FF69B4; font-size: 1.2em; font-weight: bold;">⛷️ I'm a Full Stack Developer</p>
+  <p style="color: #7FFFD4; font-size: 1.2em; font-weight: bold;">🚀 Currently, I am focusing on <strong>React</strong>, <strong>JavaScript</strong>, and <strong>Node.js</strong>...</p>
+  <p style="color: #FFD700; font-size: 1.2em; font-weight: bold;">🛠️ Current Project: Developing an online therapy platform called <em>"Soul Journey"</em> using React, JavaScript, and Node.js.</p>
+  <p style="color: #ADFF2F; font-size: 1.2em; font-weight: bold;">💡 This project aims to provide a seamless and interactive platform where users can access online therapy sessions, connect with professionals, and track their mental wellness journey.</p>
 </div>
+
 
 
 <div align=center>
